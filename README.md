@@ -9,6 +9,8 @@
 # Power!!!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rous1141&layout=donut-vertical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rous1141)
+[![Rous1141's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rous1141&theme=react)](https://github.com/Rous1141/github-readme-activity-graph)
+
 
 # Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rous1141)](https://github.com/Rous1141/github-profile-trophy)
